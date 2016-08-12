@@ -1,0 +1,5 @@
+'''
+from random import randint
+def foo(name):
+    return name + " " + str(randint(6,15))
+'''
